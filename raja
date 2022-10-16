@@ -1,1 +1,8 @@
 Hi this is for testing 
+mkdir test
+cp raja
+touch file1
+mv test test1
+123
+abcd
+guvi
